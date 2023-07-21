@@ -1,5 +1,5 @@
 {
-  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": "false",
+  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": false,
   "OUTAGE_ALERT_MESSAGE": "We are experience a system outage. We apologize for the inconvenience. Please try again later.",
   "OUTAGE_ALERT_TYPE": "ALL"
 }
