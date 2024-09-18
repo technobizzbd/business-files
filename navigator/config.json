@@ -1,5 +1,5 @@
 {
-  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": false,
-  "OUTAGE_ALERT_MESSAGE": "We are experiencing a system outage with business formations. We apologize for the inconvenience. Please try again later.",
-  "OUTAGE_ALERT_TYPE": "LOGGED_IN_ONLY"
+  "FEATURE_ENABLE_OUTAGE_ALERT_BAR": true,
+  "OUTAGE_ALERT_MESSAGE": "We are experiencing a service interruption that is preventing users from logging in. We apologize for the inconvenience. Please try again later.",
+  "OUTAGE_ALERT_TYPE": "UNREGISTERED_ONLY"
 }
